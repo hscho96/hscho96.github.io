@@ -16,7 +16,7 @@
 title: Into the Programming
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/hscho96"
+baseurl: ""
 url: "https://hscho96.github.io"
 permalink: /:year/:month/:day/:title
 repository: hscho96/hscho96.github.io
