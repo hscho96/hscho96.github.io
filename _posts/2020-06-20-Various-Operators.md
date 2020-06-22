@@ -53,7 +53,9 @@ console.log('10 > 20:' , 10 > 20); // 10 > 20 : false
 console.log('30 > 20: , 30 > 20); // 30 > 20 : true
 
 console.log('typeof (true): ', typeof(true)); // typeof (true): boolean
-console.log('typeof (false) :', typeof(false)); // typeof (false) : boolean
+console.log('typeof (false): ', typeof(false)); // typeof (false): boolean
+
+
 {% endhighlight %}
 
 ## Comparison Operator
